@@ -17,7 +17,7 @@ machine-learning, deep-learning and their applications speech processing, spcifi
 
 Publications
 ====
-- [Unsupervised Word Segmentation Using Temporal Gradient Pseudo-Labels.](https://arxiv.org/abs/2304.00993) _**Tzeviya Sylvia Fuchs** and Yedid Hoshen_.  ICASSP, 2023.[Paper](https://arxiv.org/abs/2304.00993), [Code](https://github.com/MLSpeech/GradSeg)
+- [Unsupervised Word Segmentation Using Temporal Gradient Pseudo-Labels.](https://arxiv.org/abs/2304.00993) _**Tzeviya Sylvia Fuchs** and Yedid Hoshen_.  ICASSP, 2023. [Paper](https://arxiv.org/abs/2304.00993), [Code](https://github.com/MLSpeech/GradSeg).
 - [Unsupervised Word Segmentation using K Nearest Neighbors](https://arxiv.org/pdf/2204.13094.pdf). _**Tzeviya Sylvia Fuchs**, Yedid Hoshen, Joseph Keshet_.  Interspeech, 2022, [Paper](https://arxiv.org/pdf/2204.13094.pdf), [Code](https://github.com/MLSpeech/DSegKNN).
 - [CNN-based Spoken Term Detection and Localization without Dynamic Programming](https://arxiv.org/pdf/2103.05468.pdf). _**Tzeviya Sylvia Fuchs***, Yael Segal*, Joseph Keshet_.  The 46th IEEE International Conference in Acoustic, Speech and Signal Processing (ICASSP), 2021, [Paper](https://arxiv.org/pdf/2103.05468.pdf).
 - [SpeechYOLO: Detection and Localization of Speech Objects](https://arxiv.org/pdf/1904.07704.pdf). _Yael Segal*, **Tzeviya Sylvia Fuchs***, Joseph Keshet_.  The 20th Annual Conference of the International Speech Communication Association INTERSPEECH 2019, Sep. 2019, pp. 4210–4214, [Paper](https://arxiv.org/pdf/1904.07704.pdf), [Code](https://github.com/MLSpeech/speech_yolo).
