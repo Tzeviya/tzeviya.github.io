@@ -13,7 +13,7 @@ Bio
 
 My name is Tzeviya Sylvia Fuchs. I completed my PhD in Computer-Science from [Bar-Ilan University](https://www1.biu.ac.il/)
 under the supervision of [Prof. Joseph Keshet](https://keshet.net.technion.ac.il/). My research interests are in
-machine-learning, deep-learning and their applications speech processing, spcifically, unsupervised word segmentation, keyword spotting, spoken term detection.
+machine-learning, deep-learning and their applications in speech processing, spcifically, unsupervised word segmentation, keyword spotting and spoken term detection.
 
 Publications
 ====
